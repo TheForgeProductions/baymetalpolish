@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Bay Metal Polish"
-
+disableKinds = ["taxonomy", "taxonomyTerm"]
+publishDir = "docs"
 theme = "hugograyscale"
