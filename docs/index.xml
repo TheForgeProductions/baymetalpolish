@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bay Metal Polish</title>
-    <link>/</link>
+    <link>https://baymetalpolish.com/</link>
     <description>Recent content on Bay Metal Polish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baymetalpolish.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about_stashed/</link>
+      <link>https://baymetalpolish.com/about_stashed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about_stashed/</guid>
+      <guid>https://baymetalpolish.com/about_stashed/</guid>
       <description>About Bay Metal Polish We&amp;rsquo;ll Make It Shine!</description>
     </item>
     
