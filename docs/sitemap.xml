@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about_stashed/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>

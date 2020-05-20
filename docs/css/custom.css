@@ -1,0 +1,12 @@
+.image-temp {
+    margin: 1rem;
+    width: 28%;
+}
+.flex-images {
+    display: flexbox;
+    padding: 5rem 5rem 10rem 10rem;
+    /* padding-right: 5rem; */
+}
+.contact {
+    padding: 10rem;
+}

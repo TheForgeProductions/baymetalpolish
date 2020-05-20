@@ -4,6 +4,6 @@ weight: 1
 improvecontrast: true
 ---
 
-# Bay Area Metal Polish
+# Bay Metal Polish
 
-Metal Polishing Services for the Bay Area
+We'll Make It Shine!
