@@ -4,4 +4,6 @@ baseurl = "https://baymetalpolish.com"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 publishDir = "docs"
 theme = "hugograyscale"
+
+[params]
 description = "A Bay Area metal polishing business."
