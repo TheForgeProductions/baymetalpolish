@@ -11,14 +11,5 @@
 	<atom:link href="https://baymetalpolish.com/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>About</title>
-      <link>https://baymetalpolish.com/about_stashed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://baymetalpolish.com/about_stashed/</guid>
-      <description>About Bay Metal Polish We&amp;rsquo;ll Make It Shine!</description>
-    </item>
-    
   </channel>
 </rss>
