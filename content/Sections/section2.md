@@ -10,7 +10,7 @@ improvecontrast: true
 ##### Call or email anytime!
 
 {{< rawhtml >}}
-<h4 id="contact-info"></h4>
+<h5 id="contact-info"></h5>
 {{< /rawhtml >}}
 
 {{< contact-button text="Click For Contact Info" id="contact-button">}}
